@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1726775564169" clover="3.2.0">
+  <project timestamp="1726775564169" name="All files">
+    <metrics statements="43" coveredstatements="43" conditionals="10" coveredconditionals="10" methods="3" coveredmethods="3" elements="56" coveredelements="56" complexity="0" loc="43" ncloc="43" packages="1" files="2" classes="2"/>
+    <file name="Dijkstra.js" path="C:\Users\santy\OneDrive\Escritorio\Digital NAO\Reto 4 - Java y JavaScript procedimientos de programación\proyecto-js\7. Travel Plan(Graph)\Dijkstra.js">
+      <metrics statements="31" coveredstatements="31" conditionals="10" coveredconditionals="10" methods="2" coveredmethods="2"/>
+      <line num="4" count="3" type="stmt"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="6" count="23" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="9" count="31" type="stmt"/>
+      <line num="10" count="31" type="stmt"/>
+      <line num="12" count="3" type="stmt"/>
+      <line num="16" count="3" type="stmt"/>
+      <line num="17" count="3" type="stmt"/>
+      <line num="18" count="3" type="stmt"/>
+      <line num="19" count="23" type="stmt"/>
+      <line num="20" count="3" type="stmt"/>
+      <line num="22" count="3" type="stmt"/>
+      <line num="23" count="20" type="stmt"/>
+      <line num="24" count="20" type="stmt"/>
+      <line num="25" count="164" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="102" type="cond" truecount="4" falsecount="0"/>
+      <line num="27" count="28" type="stmt"/>
+      <line num="31" count="20" type="stmt"/>
+      <line num="32" count="20" type="stmt"/>
+      <line num="33" count="58" type="stmt"/>
+      <line num="34" count="58" type="cond" truecount="4" falsecount="0"/>
+      <line num="35" count="23" type="stmt"/>
+      <line num="36" count="23" type="stmt"/>
+      <line num="41" count="3" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
+      <line num="45" count="1" type="stmt"/>
+      <line num="46" count="1" type="stmt"/>
+      <line num="49" count="1" type="stmt"/>
+      <line num="50" count="1" type="stmt"/>
+      <line num="51" count="1" type="stmt"/>
+    </file>
+    <file name="Graph.js" path="C:\Users\santy\OneDrive\Escritorio\Digital NAO\Reto 4 - Java y JavaScript procedimientos de programación\proyecto-js\7. Travel Plan(Graph)\Graph.js">
+      <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="4" type="stmt"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="5" count="18" type="stmt"/>
+      <line num="8" count="4" type="stmt"/>
+      <line num="9" count="8" type="stmt"/>
+      <line num="10" count="8" type="stmt"/>
+      <line num="13" count="4" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
